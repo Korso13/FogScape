@@ -1,0 +1,7 @@
+.vs/*
+Binaries/*
+Build/*
+Content/StarterContent/HDRI/*
+DerivedDataCache/
+Intermediate/*
+Saved/*
