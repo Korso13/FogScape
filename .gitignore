@@ -1,7 +1,13 @@
 .vs/*
+.idea/*
 Binaries/*
 Build/*
 Content/StarterContent/HDRI/*
+Content/UnusedPackPieces/*
+Content/PN_interactiveSpruceForest/*
+Content/MS_ForestTut/*
+Content/FogScape/Audio/Ambient/*
 DerivedDataCache/
+Platforms/
 Intermediate/*
 Saved/*
