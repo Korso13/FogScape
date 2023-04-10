@@ -6,7 +6,7 @@ Content/StarterContent/HDRI/*
 Content/UnusedPackPieces/*
 Content/PN_interactiveSpruceForest/*
 Content/MS_ForestTut/*
-Content/FogScape/Audio/Ambient/*
+Content/FogScape/Audio/Ambient/*.wav
 DerivedDataCache/
 Platforms/
 Intermediate/*
